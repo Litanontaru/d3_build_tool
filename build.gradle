@@ -21,5 +21,6 @@ subprojects {
 
   dependencies {
     runtime 'log4j:log4j:1.2.17'
+    runtime 'javax.inject:javax.inject:1'
   }
 }
